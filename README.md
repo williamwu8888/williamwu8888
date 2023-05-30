@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @williamwu8888 . My name's William.
+- 👋 Hi, I’m @williamwu8888 . My name is William.
 - 👀 My favorite fields are: solid mechanics, numerical methods and computer-aided design. I also plan to specialize in the fields of robotics, mechatronics, electronics and computer science.
 - 🌱 I’m currently learning mechanics in second year of engineering.
 - 💞️ I’m looking to collaborate on the fields I like, but for now this Github is only for personal and educational stuff.
